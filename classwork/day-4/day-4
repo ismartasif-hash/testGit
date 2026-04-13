@@ -1,0 +1,11 @@
+History and Philosophy of Linux
+
+Origins: Linux was created in 1991 by Linus Torvalds, a student in Finland, who wanted a free operating system kernel similar to Unix. He combined his kernel with the tools already developed by Richard Stallman’s GNU Project.
+
+Philosophy: The core philosophy is based on "Free Software" principles. This means users have the freedom to run, study, share, and modify the software. It emphasizes community collaboration, open standards, and the idea that software should be a public resource rather than a restricted proprietary product.
+Summary Table of Commands used:
+Action	Command	Purpose
+List All	ls -a	Shows visible and hidden files.
+Where am I?	pwd	Shows the full path from the root.
+New Folder	mkdir [name]	Creates a new directory.
+Move	cd [path]	Changes your current location.

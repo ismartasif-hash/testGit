@@ -1,0 +1,6 @@
+Task 3: File Management Commands					
+Objective: Use file management commands to organize files and directories.					
+Action Items:					
+In the Practice directory, create a new file called sample.txt.					
+Copy sample.txt to a new file called duplicate.txt.					
+Delete duplicate.txt using a command-line command.					

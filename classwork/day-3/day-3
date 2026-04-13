@@ -1,0 +1,6 @@
+Summary Table of Commands used:
+Action	Command	Purpose
+List All	ls -a	Shows visible and hidden files.
+Where am I?	pwd	Shows the full path from the root.
+New Folder	mkdir [name]	Creates a new directory.
+Move	cd [path]	Changes your current location.

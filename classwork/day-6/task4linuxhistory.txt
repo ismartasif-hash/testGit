@@ -1,0 +1,47 @@
+Since you’re working on Assignment 3, here is a solid summary of Linux history. It’s a classic "David vs. Goliath" story of how a hobby project changed the entire world of computing.
+
+1. The Pre-Linux Era (The Need)
+
+Before Linux, the world was dominated by Unix, a powerful but expensive and proprietary operating system. Students and hobbyists couldn't easily access the source code or run it on their personal PCs.
+
+In the mid-80s, Richard Stallman started the GNU Project with the goal of creating a completely free, Unix-like operating system. By 1991, they had built almost all the pieces (compilers, editors, shells)—except the "brain" of the system, known as the Kernel.
+2. 1991: The Birth of the Kernel
+
+In August 1991, a 21-year-old Finnish student named Linus Torvalds sent a famous message to a newsgroup. He had written a kernel as a hobby project because he wasn't happy with Minix (a small Unix-like system used for teaching).
+
+    "I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones." — Linus Torvalds
+
+3. The Marriage of GNU and Linux
+
+Linus’s kernel filled the missing gap in the GNU Project. When the Linux kernel was released under the GNU General Public License (GPL), developers around the world began contributing to it. This combination—the GNU tools and the Linux kernel—is why many people (and your assignment) refer to the OS as GNU/Linux.
+4. The 1990s: Rise of the Distributions
+
+As the system grew, companies and communities began bundling the kernel with software to make it easier to install. This gave birth to "Distros":
+
+    1993: Slackware and Debian were founded.
+
+    1994: Red Hat was founded.
+
+5. Modern Day: Dominance
+
+Today, Linux isn't just for desktop hobbyists. It has become the backbone of the modern world:
+
+    Servers: Over 90% of the world's cloud infrastructure (like the AWS system you've used) runs on Linux.
+
+    Mobile: Android is based on the Linux kernel.
+
+    Supercomputers: 100% of the world's top 500 supercomputers run Linux.
+
+    Embedded: Everything from smart fridges to SpaceX rockets and Mars Rovers uses it.
+
+Key Takeaway for your Assignment:
+
+The philosophy is built on The Four Freedoms:
+
+    Run the program for any purpose.
+
+    Study how the program works (access to source code).
+
+    Redistribute copies.
+
+    Improve and release your improvements to the public.
